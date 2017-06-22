@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<feeds>
+	<feed>
+		<title>Le monde</title>
+		<link>http://www.lemonde.fr/france/rss_full.xml</link>
+	</feed>
+	<feed>
+		<title>NYT Arts</title>
+		<link>http://www.nytimes.com/services/xml/rss/nyt/InternationalArts.xml</link>
+	</feed>
+	<feed>
+		<title>Transfert Lequipe.fr</title>
+		<link>https://www.lequipe.fr/rss/actu_rss_Transferts.xml</link>
+	</feed>
+
+
+</feeds>
